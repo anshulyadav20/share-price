@@ -1,0 +1,9 @@
+Test Cases:-
+
+1. Data file is not present on the required destination -- Will show an error
+      File does not exist
+2. Data invalid in the file  -- Will show an error
+      File format is not correct
+3. Price column having string -- Will show an error      
+      File format is not correct
+      
